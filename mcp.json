@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aicommander": {
+      "type": "http",
+      "url": "https://aicommander.dev/mcp"
+    }
+  }
+}
