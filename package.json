@@ -1,0 +1,12 @@
+{
+  "name": "aicommander-mcp",
+  "private": true,
+  "description": "Stdio entry for Glama evaluation of the published @aicommander/mcp package.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@aicommander/mcp": "1.1.0"
+  }
+}
