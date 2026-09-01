@@ -76,7 +76,9 @@ Every release ships a `SHA256SUMS` manifest covering all artifacts.
 
 ## License scope
 
-The Cursor plugin manifest and MCP configuration in this repository are
-available under the MIT License. AI Commander trademarks, release binaries,
-desktop and agent applications, and the hosted service are not relicensed by
-that grant and remain subject to their applicable product terms.
+The files in this repository — the Cursor plugin, MCP configuration,
+Glama/stdio evaluation files (`Dockerfile`, `package.json`, `glama.json`),
+and this documentation — are available under the MIT License. AI Commander
+trademarks, release binaries, desktop and agent applications, and the hosted
+service are not relicensed by that grant and remain subject to their applicable
+product terms.
